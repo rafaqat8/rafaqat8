@@ -1,4 +1,4 @@
-# Hi there, I'm Jane Doe 👋
+# Hi there, I'm Syed Rafaqat Hussain 👋
 
 Welcome to my GitHub profile! I'm a software developer passionate about coding, open-source, and data science.
 
