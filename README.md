@@ -23,7 +23,7 @@ A cool app for cool people.
 ## Skills
 
 - Programming Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), 
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=purple)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin&logoColor=purple)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-AndroidStudio-2496ED?style=flat&logo=androidstudio&logoColor=white)
 
 ## Contact
